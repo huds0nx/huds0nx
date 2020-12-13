@@ -1,6 +1,6 @@
-### Hi there, I'm [Klip!](https://klip.lol) 👋
+<h1> Hi there, I'm Klip. </h1>
 
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://klip.lol">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/klipisbad">
