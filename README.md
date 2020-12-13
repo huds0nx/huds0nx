@@ -1,4 +1,4 @@
-## Hello. I'm [!Klip](https://klip.lol).##
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -9,6 +9,10 @@
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+
+<br />
+<br />
+
 [![Klip](https://github-readme-stats.vercel.app/api?username=klipisbad&show_icons=true&theme=tokyonight)](https://klip.lol)
 [![Spotify](https://spotifyreadme-ecru.vercel.app/api/spotify)](https://open.spotify.com/artist/623wO7kR2ChnFUeLafqxM5?si=3CbuIuMYTwyD68Yvlok63w)
 ![](https://komarev.com/ghpvc/?username=klipisbad&color=blueviolet)
