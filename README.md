@@ -1,4 +1,4 @@
-## Hello. I'm [!Klip](https://klip.lol).##\
+## Hello. I'm [!Klip](https://klip.lol).##
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
