@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Klip. <img>https://komarev.com/ghpvc/?username=klipisbad&color=blueviolet</img></h1>
+<h1> Hi there, I'm Klip.</h1>
 
 <a href="https://klip.lol">
   <img align="left" alt="Website" width="20px" src="https://raw.githubusercontent.com/klipisbad/klipisbad/main/website.svg" />
