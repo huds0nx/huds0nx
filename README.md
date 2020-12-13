@@ -1,13 +1,13 @@
 <h1> Hi there, I'm Klip. </h1>
 
 <a href="https://klip.lol">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Website" width="20px" src="https://raw.githubusercontent.com/klipisbad/klipisbad/main/website.svg" />
 </a>
 <a href="https://twitter.com/klipisbad">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/klipisbad/klipisbad/main/twitter.svg" />
 </a>
 <a href="https://discord.klip.lol">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/klipisbad/klipisbad/main/discord-round.svg" />
 </a>
 
 <br />
