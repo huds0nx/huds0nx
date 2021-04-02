@@ -7,6 +7,9 @@
 <a href="https://twitter.com/ihxzey">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/ihxzey/ihxzey/main/twitter.svg" />
 </a>
+<a href="https://3.void3.org.com">
+  <img align="left" alt="Minecraft Server" width="21px" src="https://raw.githubusercontent.com/ihxzey/ihxzey/main/minecraft.svg" />
+</a>
 
 <br />
 <br />
@@ -15,5 +18,3 @@
 <br />
 [![Spotify](https://spotifyreadme-ecru.vercel.app/api/spotify)](https://open.spotify.com/artist/623wO7kR2ChnFUeLafqxM5?si=3CbuIuMYTwyD68Yvlok63w)
 <br />
-[![Discord Server](https://discord.com/api/guilds/731913761295696063/widget.png?style=banner3)](https://discord.klip.lol)
-[![Discord Server2](https://discord.com/api/guilds/729579283323945021/widget.png?style=banner3)](https://discord.gg/GfhVKqrZ2e)
