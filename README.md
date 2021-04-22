@@ -14,7 +14,7 @@
 <br />
 <br />
 
-[![Klip](https://github-readme-stats.vercel.app/api?username=ihxzey&show_icons=true&theme=tokyonight)](https://hazey.xyz)
+[![Hazey](https://github-readme-stats.vercel.app/api?username=ihxzey&show_icons=true&theme=tokyonight)](https://hazey.xyz)
 <br />
-[![Spotify](https://spotifyreadme-ecru.vercel.app/api/spotify)](https://open.spotify.com/artist/623wO7kR2ChnFUeLafqxM5?si=3CbuIuMYTwyD68Yvlok63w)
+[![Spotify](https://spotifyreadme-ecru.vercel.app/api/spotify)](https://open.spotify.com/artist/2MWbesWRWEe5GFVJDlvbHx)
 <br />
