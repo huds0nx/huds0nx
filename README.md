@@ -7,9 +7,6 @@
 <a href="https://twitter.com/ihxzey">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/ihxzey/ihxzey/main/twitter.svg" />
 </a>
-<a href="https://3.void3.org">
-  <img align="left" alt="Minecraft Server" width="21px" src="https://raw.githubusercontent.com/ihxzey/ihxzey/main/minecraft.svg" />
-</a>
 
 <br />
 <br />
