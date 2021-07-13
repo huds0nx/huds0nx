@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudson</h1>
-<h3 align="center">I enjoy listening to music and coding in my free time.</h3>
+<h3 align="center">I enjoy coding and making music in my free time.</h3>
 
 - 👋 I’m looking to help make websites
 
